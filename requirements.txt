@@ -1,0 +1,4 @@
+aiogram>=3.0.0
+yt-dlp>=2024.4.9
+SQLAlchemy>=2.0
+asyncpg 
